@@ -1,0 +1,179 @@
+{
+    "images":
+    {
+        "black":
+        {
+            "image" : "revolution:textures/black.png",
+            "posX" : 50,
+            "posY" : 0,
+            "width" : 140,
+            "height" : 2000,
+            "alignment" : "top_left"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 70,
+            "posY" : -24,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            },
+            "alignment" : "left_center"
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 70,
+            "posY" : 0,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            },
+            "alignment" : "left_center"
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : 70,
+            "posY" : 24,
+            "width" : 100,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            },
+            "alignment" : "left_center"
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 70,
+            "posY" : 426,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            },
+            "alignment" : "left_bottom"
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 70,
+            "posY" : 450,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            },
+            "alignment" : "left_bottom"
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : 78,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            },
+            "alignment" : "bottom_left"
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 108,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            },
+            "alignment" : "bottom_left"
+        },
+
+        "discord":
+        {
+            "text" : "",
+            "posX" : 138,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+            "texture" : "revolution:textures/discord.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/uK3rV3F"
+            },
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+
+        "space": 
+        {
+            "text" : "Space",
+            "posX" : 440,
+            "posY" : 150,
+            "color" : 4695295,
+            "fontSize": 10
+        },
+
+        "revolution": 
+        {
+            "text" : "Revolution",
+            "posX" : 340,
+            "posY" : 250,
+            "color" : 4695295,
+            "fontSize": 10
+        }
+    },
+    
+    "other":
+    {        
+        "panorama":
+        {
+            "images" : "revolution:textures/panorama/panorama_%c.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : true,
+            "gradient" : false
+        }
+    }
+}
