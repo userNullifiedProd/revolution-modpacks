@@ -1,7 +1,6 @@
 Mod Name | Mod ID | Mod Version | Mod Jar | Mod Website
 -------- | ------ | ----------- | ------- | -----------
 ALib|alib|1.0.12
-Actually Baubles|actuallybaubles|1.1
 AE2Stuff|ae2stuff|0.7.0.4
 AE2WirelessTerminals(AE2WTLib)|ae2wtlib|1.0.34
 AIImprovements|aiimprovements|0.0.1.3
@@ -17,6 +16,7 @@ Avaritia|avaritia|3.3.0
 BDLib|bdlib|1.14.3.12
 BadWitherNoCookie!Reloaded|badwithernocookiereloaded|1.12.2-3.3.16
 Baubles|baubles|1.5.2
+ActuallyBaubles|actuallybaubles|1.1
 BiblioCraft|bibliocraft|2.4.5
 BiomesO'Plenty|biomesoplenty|7.0.1.2441
 Bookshelf|bookshelf|2.3.590
@@ -64,7 +64,8 @@ ExtraCells2|extracells|2.6.5
 ExtraPlanets|extraplanets|1.12.2-0.6.5|
 ExtraUtilities2|extrautils2|1.0
 ExtremeReactors|bigreactors|1.12.2-0.4.5.67
-FTBLibrary|ftblib|5.4.7.2|EnderIOMachines|enderiomachines|5.2.59
+FTBLibrary|ftblib|5.4.7.2
+EnderIOMachines|enderiomachines|5.2.59
 FTBUtilities|ftbutilities|5.4.1.130
 FastLeafDecay|fastleafdecay|v14
 FastFurnace|fastfurnace|1.3.1
@@ -101,7 +102,7 @@ ModTweaker|modtweaker|4.0.18
 Mohist|mohist|1.12.2-b69b720
 MrTJPCore|mrtjpcore|2.1.4.43
 OpenBlocks|openblocks|1.8.1
-OpenComputers(Core)|opencomputers|core|1.7.5.192
+OpenComputers(Core)|opencomputers-core|1.7.5.192
 OpenComputers|opencomputers|1.7.5.192
 OpenModsLibCore|openmodscore|0.12.2
 OpenModsLib|openmods|0.12.2
@@ -120,11 +121,13 @@ ProjectRedIntegration|projectred-integration|4.9.4.120
 ProjectRedRelocation|projectred-relocation|4.9.4.120
 ProjectRedTransmission|projectred-transmission|4.9.4.120
 ProjectRedTransportation|projectred-transportation|4.9.4.120
-Railcraft|railcraft|12.0.0|RFTools|rftools|7.73
+Railcraft|railcraft|12.0.0
+RFTools|rftools|7.73
 RandomPatches|randompatches|1.12.2-1.22.0.0
 RealisticTerrainGeneration|rtg|6.1.0.0-snapshot.1
 RedstoneFlux|redstoneflux|2.1.1
-SGCraft|sgcraft|2.0.3|SwingThroughGrass|stg|1.12.2-1.2.3
+SGCraft|sgcraft|2.0.3
+SwingThroughGrass|stg|1.12.2-1.2.3
 Shadowfacts'Forgelin|forgelin|1.8.4
 StorageDrawersExtras|storagedrawersextra|@VERSION@
 StorageDrawers|storagedrawers|5.2.2
