@@ -129,9 +129,9 @@ RedstoneFlux|redstoneflux|2.1.1
 SGCraft|sgcraft|2.0.3
 SwingThroughGrass|stg|1.12.2-1.2.3
 Shadowfacts'Forgelin|forgelin|1.8.4
-StorageDrawersExtras|storagedrawersextra|@VERSION@
+StorageDrawersExtras|storagedrawersextra|∅
 StorageDrawers|storagedrawers|5.2.2
-Surge|surge|2.0.77|
+Surge|surge|2.0.77
 TheOneProbe|theoneprobe|1.4.28
 ThermalCultivation|thermalcultivation|0.3.6
 ThermalDynamics|thermaldynamics|2.5.6
