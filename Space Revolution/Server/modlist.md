@@ -1,22 +1,23 @@
 Mod Name | Mod ID | Mod Version | Mod Website
 -------- | ------ | ----------- | -----------
-AE2Stuff|ae2stuff|0.7.0.4|https://www.curseforge.com/minecraft/mc-mods/ae2-stuff
-AE2WirelessTerminals(AE2WTLib)|ae2wtlib|1.0.34|https://www.curseforge.com/minecraft/mc-mods/ae2wtlib
-AIImprovements|aiimprovements|0.0.1.3|https://www.curseforge.com/minecraft/mc-mods/ai-improvements
-ALib|alib|1.0.12|https://www.curseforge.com/minecraft/mc-mods/a-lib
 ActuallyAdditions|actuallyadditions|1.12.2-r151|https://www.curseforge.com/minecraft/mc-mods/actually-additions
 ActuallyBaubles|actuallybaubles|1.1|https://www.curseforge.com/minecraft/mc-mods/actually-baubles
+AE2Stuff|ae2stuff|0.7.0.4|https://www.curseforge.com/minecraft/mc-mods/ae2-stuff
+AE2WirelessTerminals(AE2WTLib)|ae2wtlib|1.0.34|https://www.curseforge.com/minecraft/mc-mods/ae2wtlib
 AgriCraft|agricraft|2.12.0-1.12.0-a6|https://www.curseforge.com/minecraft/mc-mods/agricraft
+AIImprovements|aiimprovements|0.0.1.3|https://www.curseforge.com/minecraft/mc-mods/ai-improvements
 AkashicTome|akashictome|1.2-12|https://www.curseforge.com/minecraft/mc-mods/akashic-tome
 Alchemistry|alchemistry|1.12.2-40|https://www.curseforge.com/minecraft/mc-mods/alchemistry
+ALib|alib|1.0.12|https://www.curseforge.com/minecraft/mc-mods/a-lib
 AppleSkin|appleskin|1.0.14|https://www.curseforge.com/minecraft/mc-mods/appleskin
 AppliedEnergistics2|appliedenergistics2|rv6-stable-7|https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
 AttributeFix|attributefix|1.0.4|https://www.curseforge.com/minecraft/mc-mods/attributefix
 AutoRegLib|autoreglib|1.3-32|https://www.curseforge.com/minecraft/mc-mods/autoreglib
 Avaritia|avaritia|3.3.0|https://www.curseforge.com/minecraft/mc-mods/avaritia-1-10
-BDLib|bdlib|1.14.3.12|https://www.curseforge.com/minecraft/mc-mods/bdlib
 BadWitherNoCookie!Reloaded|badwithernocookiereloaded|1.12.2-3.3.16|https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded
 Baubles|baubles|1.5.2|https://www.curseforge.com/minecraft/mc-mods/baubles
+BDLib|bdlib|1.14.3.12|https://www.curseforge.com/minecraft/mc-mods/bdlib
+BetterFPS|betterfps|1.4.8|https://www.curseforge.com/minecraft/mc-mods/betterfps
 BiblioCraft|bibliocraft|2.4.5|https://www.curseforge.com/minecraft/mc-mods/bibliocraft
 BiomesO'Plenty|biomesoplenty|7.0.1.2441|https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
 Bookshelf|bookshelf|2.3.590|https://www.curseforge.com/minecraft/mc-mods/bookshelf
@@ -32,8 +33,8 @@ BuildCraftTransport|buildcrafttransport|7.99.24.6|https://www.curseforge.com/min
 BuildCraft|buildcraftcore|7.99.24.6|https://www.curseforge.com/minecraft/mc-mods/buildcraft
 CarryOn|carryon|1.12.3|https://www.curseforge.com/minecraft/mc-mods/carry-on
 Chameleon|chameleon|1.12-4.1.3|https://www.curseforge.com/minecraft/mc-mods/chameleon
-Chisels&Bits|chiselsandbits|14.33|https://www.curseforge.com/minecraft/mc-mods/chisels-bits
 Chisel|chisel|MC1.12.2-1.0.2.45|https://www.curseforge.com/minecraft/mc-mods/chisel
+Chisels&Bits|chiselsandbits|14.33|https://www.curseforge.com/minecraft/mc-mods/chisels-bits
 Clumps|clumps|3.1.2|https://www.curseforge.com/minecraft/mc-mods/clumps
 CoFHCore|cofhcore|4.6.6|https://www.curseforge.com/minecraft/mc-mods/cofh-core
 CoFHWorld|cofhworld|1.4.0|https://www.curseforge.com/minecraft/mc-mods/cofh-world
