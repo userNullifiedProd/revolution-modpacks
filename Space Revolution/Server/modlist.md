@@ -85,7 +85,7 @@ JEIBees|jeibees|0.9.0.5
 JourneyMap|journeymap|1.12.2-5.7.1
 JustEnoughEnergistics|jee|1.0.8
 JustEnoughItems|jei|4.15.0.296
-Let'sEncryptCraft|letsencryptcraft|@VERSION@
+Let'sEncryptCraft|letsencryptcraft|∅
 MJRLegendsLib|mjrlegendslib|1.12.2-1.1.9|
 MTLib|mtlib|3.0.6
 Mantle|mantle|1.12-1.3.3.55
