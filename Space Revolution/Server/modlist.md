@@ -93,7 +93,7 @@ McJtyLib|mcjtylib_ng|3.5.4
 Mekanism|mekanism|1.12.2-9.8.3.390
 Mekanism:Generators|mekanismgenerators|1.12.2-9.8.3.390
 Mekanism:Tools|mekanismtools|1.12.2-9.8.3.390
-Micdoodle8Core|micdoodlecore|
+Micdoodle8Core|micdoodlecore|∅
 MinecraftCoderPack|mcp|9.42
 MinecraftForge|forge|14.23.5.2854
 MinecraftMultipartPlugin|minecraftmultipartcbe|2.6.2.83
