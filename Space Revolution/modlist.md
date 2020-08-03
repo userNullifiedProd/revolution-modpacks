@@ -1,4 +1,4 @@
-**Server side & Client side**
+# Server side & Client side
 Mod Name | Mod ID | Mod Version | Mod Website
 -------- | ------ | ----------- | -----------
 ActuallyAdditions|actuallyadditions|1.12.2-r151|https://www.curseforge.com/minecraft/mc-mods/actually-additions
@@ -156,12 +156,12 @@ WirelessRedstone-CBE|wrcbe|2.3.2|https://www.curseforge.com/minecraft/mc-mods/wi
 WrapUp|wrapup|1.12-1.1.3|https://www.curseforge.com/minecraft/mc-mods/wrapup
 ZeroCORE|zerocore|1.12.2-0.1.2.8|https://www.curseforge.com/minecraft/mc-mods/zerocore
 
-**Server side**
+# Server side
 Mod Name | Mod ID | Mod Version | Mod Website
 -------- | ------ | ----------- | -----------
 Morpheus|morpheus|1.12.2-3.5.106|https://www.curseforge.com/minecraft/mc-mods/morpheus
 
-**Client side**
+# Client side
 Mod Name | Mod ID | Mod Version | Mod Website
 -------- | ------ | ----------- | -----------
 Controlling|controlling|3.0.9|https://www.curseforge.com/minecraft/mc-mods/controlling
