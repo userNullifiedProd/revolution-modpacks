@@ -177,4 +177,3 @@ NoRecipeBook|norecipebook|1.2.2|https://www.curseforge.com/minecraft/mc-mods/no-
 ResourceLoader|resourceloader|MC1.12.1-1.5.3|https://www.curseforge.com/minecraft/mc-mods/resource-loader
 TexFix|texfix|1.12-4.0|https://www.curseforge.com/minecraft/mc-mods/texfix
 ToastControl|toastcontrol|1.12.2-1.8.1|https://www.curseforge.com/minecraft/mc-mods/toast-control
-
