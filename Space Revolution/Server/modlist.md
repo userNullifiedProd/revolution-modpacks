@@ -77,6 +77,8 @@ ForgeModLoader|FML|8.0.99.99|http://files.minecraftforge.net/fml/
 ForgeMultipartCBE|forgemultipartcbe|2.6.2.83|https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe
 GalacticraftCore|galacticraftcore|4.0.2.280|https://micdoodle8.com/mods/galacticraft
 GalacticraftPlanets|galacticraftplanets|4.0.2.280|https://micdoodle8.com/mods/galacticraft
+ImmersiveEngineering|immersiveengineering|0.12-98|https://www.curseforge.com/minecraft/mc-mods/immersive-engineering
+IndustrialCraft2|industrialcraft2|2.8.170-ex112|https://www.curseforge.com/minecraft/mc-mods/industrial-craft
 InfinityLib|infinitylib|1.12.2-1.12.0|https://www.curseforge.com/minecraft/mc-mods/infinitylib
 It'sthelittlethings|itlt|1.0.0|https://www.curseforge.com/minecraft/mc-mods/its-the-little-things
 JAOPCASingularities|jaopcasingularities|1.12.2-2.2.0.9|https://www.curseforge.com/minecraft/mc-mods/jaopcasingularities
